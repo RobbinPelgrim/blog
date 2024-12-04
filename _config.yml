@@ -1,4 +1,4 @@
-theme: minimal,
-title: Blog,
-author: Robbin Pelgrim,
+theme: minima
+title: Blog
+author: Robbin Pelgrim
 description: My blog highlighting and showing personal developments.
